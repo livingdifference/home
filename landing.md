@@ -13,9 +13,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>a caterpillar is not supposed to die as a caterpillar</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>What do you leave behind? What would you like to let go of? What is your legacy going to be? Often, we’d rather not think about the end of life of anything: our organizations, projects, products, animals or human beings - even a single act. What would happen were we to look at the value and the waste, life and death, head and heart,  joy and suffering? Can we create circular economies without re-imagining what ‘waste’ is? Can we live deeply without thinking about our end? Can we enjoy forever? 
+Life is about bounded processes. Inner and outer, and the membrane between. Beginnings and endings. Knowing and savoring the boundaries might be one key to a good life for the individual, the group, the organization. Because the differences we establish make our world. They make all the difference.
+I can help you spot the difference, help you play with and transform with it.
+</p>
 	</div>
 </section>
 
