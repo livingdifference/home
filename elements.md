@@ -2,7 +2,7 @@
 layout: page
 title: be clear
 description: on the difference you need to make
-image: assets/images/pic01.jpg
+image: assets/images/water-drop.jpg
 nav-menu: true
 ---
 
