@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: be clear
 description: on the difference you need to make
 image: assets/images/water-drop.jpg
