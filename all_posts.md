@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: Services
-landing-title: 'Services'
+title: Thinking
+landing-title: 'Blog'
 nav-menu: true
 description: 'coaching | facilitation | organizing'
 image: null
@@ -9,4 +9,4 @@ author: null
 show_tile: false
 ---
 
-<h1>Services</h1>
+<h1>Blog</h1>
