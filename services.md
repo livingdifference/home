@@ -2,7 +2,7 @@
 layout: landing
 title: services
 description: coaching | facilitation | organizing
-image: assets/images/water-drop.jpg
+image: 
 nav-menu: true
 ---
 
