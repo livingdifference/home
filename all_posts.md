@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: All posts
+title: Services
 landing-title: 'Services'
 nav-menu: true
 description: 'coaching | facilitation | organizing'
