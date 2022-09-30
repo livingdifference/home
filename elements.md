@@ -1,9 +1,12 @@
 ---
 layout: page
 title: be clear
+description: on the difference you need to make
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
+
+
 
 <!-- Main -->
 <div id="main" class="alt">
