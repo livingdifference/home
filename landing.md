@@ -2,7 +2,7 @@
 title: transform
 layout: landing
 description: 'let go of the old differences'
-image: assets/images/pic07.jpg
+image: assets/images/butterfly.jpg
 nav-menu: true
 ---
 
