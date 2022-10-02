@@ -1,12 +1,12 @@
 # site settings
 title: tomorrow
 subtitle: made by you
-email: matth.schmitt@gmail.com
+email: matth.schmitt@googlemail.com
 description: coaching | facilitation | organizing <br /> for a regenerative future
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Woogstr. 6a
+street_address: 
 city: Frankfurt
 state: 
 zip_code: 60431
@@ -27,7 +27,7 @@ socials:
   Google-Plus: 
   Instagram:
   LinkedIn: https://www.linkedin.com/in/matthias-schmitt-ffm/
-  Twitter: 
+  Twitter: https://twitter.com/livingdiffrence
   Facebook:
   Slack:
 
