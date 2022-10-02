@@ -25,6 +25,7 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two"> <!--class="spotlights"-->
+    <div class="inner">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/caterpillar.jpg %}" alt="" data-position="center center" />
@@ -66,6 +67,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	</div>
 </section>
 
 <!-- Three -->
