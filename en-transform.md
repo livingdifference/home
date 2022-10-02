@@ -24,8 +24,9 @@ nav-menu: true
 </section>
 
 <!-- Two -->
-<section id="two"> <!--class="spotlights"-->
-    <div class="inner">
+
+<section id="two" class="spotlights"> <!---->
+	<div class="inner">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/caterpillar.jpg %}" alt="" data-position="center center" />
@@ -35,6 +36,7 @@ nav-menu: true
 				<header class="major">
 					<h3>What would you like to leave behind?</h3>
 				</header>
+				
 				<p>What do you leave behind? What would you like to let go of? What is your legacy going to be? 
 				   Often, we’d rather not think about the end of life of anything: our organizations, projects, products, animals or human beings - even a single act. 
 				   What would happen were we to look at the value and the waste, life and death, head and heart,  joy and suffering? 
