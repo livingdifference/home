@@ -14,41 +14,56 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>I help individuals, groups and organizations to become their best selves</h2>
+			<h2>I support individuals, groups and organizations to become their best selves</h2>
 		</header>
 
-<!-- Content -->
-<p>
-I’d like to help you weave the web of your life. Whether you are an individual, a group or an organization - if you would like to playfully explore and improve your relationships, your boundaries, the chains you’re a part of, your purpose and the roles you play,  the challenges within and around you, I’d be happy to support you.
-</p>
-<p>
-Imagine you could be yourself: a force for good for you - and in the web of life around you?
-</p>
+		<!-- Content -->
+		<p>
+		I’d like to help you weave the web of your life. Whether you are an individual, a group or an organization - if you would 
+		like to playfully explore and improve your relationships, your boundaries, the chains you’re a part of, your purpose and 
+		the roles you play,  the challenges within and around you, I’d be happy to support you.
+		</p>
+
+		<p>
+		Imagine you could be yourself: a force for good. For you - and in the web of life around you.
+		</p>
 	
-<div class="row">
-	<div class="4u 12u$(medium)">
-		<h3>Coaching</h3>
-		<p>Come into balance with your inner and outer environments. 
-		Become aware of yourself and the systems you're a part of. The good life good/health/happy = you co-create your environment)
-		</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Facilitation</h3>
-		<p>I design workshops and gatherings for smart and playful participants. Wonderfully, those are the ones that tend to show up.
-		When you work hard, you might as well enjoy the process.		
-		</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Organizing</h3>
-		<p>I help self-organization to be born and strengthend. When groups and teams make their own rules, those tend to be the most
-		effective. I can guide you to set helpful boundaries.
-		</p>
-		<ul>
-			<li>agile methodologies</li>
-			<li>liberating structures</li>
-			<li>holistic organization design</li>
-		</ul>
-	</div>
+		<div class="row">
+			<div class="4u 12u$(medium)">
+				<h3>Coaching</h3>
+				<p>Come into balance with your inner and outer environments. 
+				Become aware of yourself and the systems you're a part of. The good life good/health/happy = you co-create your environment). Focus of attention makes your world.
+				Help with failed attempts at changing behavior.
+				</p>
+				<ul>
+					<li>person-centered approach</li>
+					<li>systems thinking at the core</li>
+					<li>constructivist</li>
+				</ul>
+			</div>
+			<div class="4u 12u$(medium)">
+				<h3>Facilitation</h3>
+				<p>I design workshops, offsites and gatherings for smart and playful participants. Wonderfully, those are the ones that tend to show up.
+				When you work hard, you might as well enjoy the process.		
+				</p>
+				<ul>
+					<li>playful and structured</li>
+					<li>creative and solution-focused</li>
+					<li>connect emotions and reason</li>
+				</ul>
+			</div>
+			<div class="4u$ 12u$(medium)">
+				<h3>Organizing</h3>
+				<p>I help self-organization to be born and strengthend. When groups and teams make their own rules, they tend to be the most
+				effective. I can guide you to set helpful boundaries.
+				</p>
+				<ul>
+					<li>agile methodologies</li>
+					<li>liberating structures</li>
+					<li>holistic organizational design</li>
+				</ul>
+			</div>
+		</div>
 
 	<!-- Break -->
 
@@ -69,12 +84,17 @@ Imagine you could be yourself: a force for good for you - and in the web of life
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Teams</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>
+		
+		</p>
 	</div>
 	
 	<div class="4u$ 12u$(medium)"><span class="image fit"><img width="10%" src="{% link assets/images/organizing.png %}" alt="" /></span>
 		<h3>Organizations</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>
+			Organizing is a process that creates identity. It enables adaptation to the environment, so the organized can be effective in 
+			their environment.
+		</p>
 	</div>
 
 </div>
