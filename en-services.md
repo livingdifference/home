@@ -25,20 +25,6 @@ nav-menu: true
 </p>
 <div class="row">
 	<div class="4u 12u$(medium)">
-		<h3>Individuals</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Teams</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)"><span class="image fit"><img src="{% link assets/images/organizing.png %}" alt="" /></span>
-		<h3>Organizations</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
 		<h3>Coaching</h3>
 		<p>Come into balance with your inner and outer environments. 
 		Become aware of yourself and the systems you're a part of. The good life good/health/happy = you co-create your environment)
@@ -61,6 +47,33 @@ nav-menu: true
 			<li>holistic organization design</li>
 		</ul>
 	</div>
+
+	<!-- Break -->
+
+	<div class="4u 12u$(medium)">
+		<h3>Individuals</h3>
+		<p>
+		I listen to you with my full attention. I can ask you questions to discover new insights about yourself and
+		your situation. I can help you to find your own path through your lifes challenges. Because you know your
+		life best, I will not give you advice. Rather, my goal is to co-create ideas and images that resonate with 
+		you.
+		</p>
+		<ul>
+			<li>develop yourself personally</li>
+			<li>find your path through concerns &amp; challenges in life</li>
+			<li>deal with conflict</li>
+			<li>get a grasp on difficult decisions</li>
+		</ul>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Teams</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u$ 12u$(medium)"><span class="image fit"><img src="{% link assets/images/organizing.png %}" alt="" /></span>
+		<h3>Organizations</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+
 </div>
 
 	
