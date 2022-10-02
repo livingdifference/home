@@ -15,14 +15,17 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Text here</h1>
+			<h2>I help individuals, groups and organizations to become their best selves</h2>
 		</header>
 
 <!-- Content -->
-<h2 id="content">I help individuals, groups and organizations to become their best selves</h2>
 <p>
-		
+I’d like to help you weave the web of your life. Whether you are an individual, a group or an organization - if you would like to playfully explore and improve your relationships, your boundaries, the chains you’re a part of, your purpose and the roles you play,  the challenges within and around you, I’d be happy to support you.
 </p>
+<p>
+Imagine you could be yourself: a force for good for you - and in the web of life around you?
+</p>
+		
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>Coaching</h3>
