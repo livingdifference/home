@@ -24,7 +24,7 @@ nav-menu: true
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<section id="two"> <!--class="spotlights"-->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/caterpillar.jpg %}" alt="" data-position="center center" />
