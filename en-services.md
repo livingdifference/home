@@ -7,7 +7,6 @@ nav-menu: true
 ---
 
 
-
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -25,7 +24,7 @@ I’d like to help you weave the web of your life. Whether you are an individual
 <p>
 Imagine you could be yourself: a force for good for you - and in the web of life around you?
 </p>
-		
+	
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>Coaching</h3>
@@ -73,16 +72,13 @@ Imagine you could be yourself: a force for good for you - and in the web of life
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	
-	<div class="4u$ 12u$(medium)"><span class="image fit"><img width=10% src="{% link assets/images/organizing.png %}" alt="" /></span>
+	<div class="4u$ 12u$(medium)"><span class="image fit"><img width="10%" src="{% link assets/images/organizing.png %}" alt="" /></span>
 		<h3>Organizations</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 
 </div>
 
-	
-</div>
-</div>
 
 </div>
 </section>
