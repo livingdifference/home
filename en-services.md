@@ -19,8 +19,10 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">voll der checker</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">I help individuals, groups and organizations to become their best selves</h2>
+<p>
+		
+</p>
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>Individuals</h3>
@@ -38,15 +40,26 @@ nav-menu: true
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Coaching</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>Come into balance with your inner and outer environments. 
+		Become aware of yourself and the systems you're a part of. The good life good/health/happy = you co-create your environment)
+		</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Facilitation</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>I design workshops and gatherings for smart and playful participants. Wonderfully, those are the ones that tend to show up.
+		When you work hard, you might as well enjoy the process.		
+		</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Organizing</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>I help self-organization to be born and strengthend. When groups and teams make their own rules, those tend to be the most
+		effective. I can guide you to set helpful boundaries.
+		</p>
+		<ul>
+			<li>agile methodologies</li>
+			<li>liberating structures</li>
+			<li>holistic organization design</li>
+		</ul>
 	</div>
 </div>
 
