@@ -64,45 +64,42 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</div>
 	
-	<!-- Individuals, teams, organizations -->
+		<!-- Individuals, teams, organizations -->
 
-	<div class="4u 12u$(medium)">
-		<h3><i class="icon fa-regular fa-leaf"></i> Individuals</h3>
-		<p>
-		I listen to you with my full attention. I can ask you questions to discover new insights about yourself and
-		your situation. I can help you to find your own path through your lifes challenges. Because you know your
-		life best, I will not give you advice. Rather, my goal is to co-create ideas and images that resonate with 
-		you.
-		</p>
-		<ul>
-			<li>develop yourself personally</li>
-			<li>find your path through concerns &amp; challenges in life</li>
-			<li>deal with conflict</li>
-			<li>get a grasp on difficult decisions</li>
-		</ul>
-	</div>
-	
-	<div class="4u 12u$(medium)">
-		<h3><i class="icon fa-regular fa-seedling"></i> Teams</h3>
-		<p>
+		<div class="4u 12u$(medium)">
+			<h3><i class="icon fa-regular fa-leaf"></i> Individuals</h3>
+			<p>
+			I listen to you with my full attention. I can ask you questions to discover new insights about yourself and
+			your situation. I can help you to find your own path through your lifes challenges. Because you know your
+			life best, I will not give you advice. Rather, my goal is to co-create ideas and images that resonate with 
+			you.
+			</p>
+			<ul>
+				<li>develop yourself personally</li>
+				<li>find your path through concerns &amp; challenges in life</li>
+				<li>deal with conflict</li>
+				<li>get a grasp on difficult decisions</li>
+			</ul>
+		</div>
 		
-		</p>
+		<div class="4u 12u$(medium)">
+			<h3><i class="icon fa-regular fa-seedling"></i> Teams</h3>
+			<p>
+			
+			</p>
+		</div>
+		
+		<div class="4u$ 12u$(medium)">
+			<h3><i class="icon fa-regular fa-tree-deciduous"></i> Organizations</h3>
+			<p>
+				Organizing is a process that creates identity. It enables adaptation to the environment, so the organized can be effective in 
+				their environment.
+			</p>
+		</div>
+
 	</div>
-	
-	<div class="4u$ 12u$(medium)">
-		<h3><i class="icon fa-regular fa-tree-deciduous"></i> Organizations</h3>
-		<p>
-			Organizing is a process that creates identity. It enables adaptation to the environment, so the organized can be effective in 
-			their environment.
-		</p>
-	</div>
 
-</div>
-
-
-</div>
 </section>
 
 </div>
