@@ -1,11 +1,11 @@
 # site settings
 title: tomorrow
 subtitle: made by you
-email: matth.schmitt@googlemail.com
+email: hello@livingdifference.de
 description: coaching | facilitation | organizing <br /> for your regenerative future
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: Matthias Schmitt
 street_address: 
 city: Frankfurt
 state: 
@@ -25,9 +25,10 @@ socials:
   GitHub: 
   GitLab:
   Google-Plus: 
-  Instagram:
+  Instagram: https://www.instagram.com/livingdifference/
   LinkedIn: https://www.linkedin.com/in/matthias-schmitt-ffm/
   Twitter: https://twitter.com/livingdiffrence
+  Youtube: https://www.youtube.com/channel/UCFUHvI0iZd4R5jt5RgL-0YQ
   Facebook:
   Slack:
 
