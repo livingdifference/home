@@ -64,11 +64,12 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-
-	<!-- Break -->
+	</div>
+	
+	<!-- Individuals, teams, organizations -->
 
 	<div class="4u 12u$(medium)">
-		<h3><i class="fa-regular fa-leaf"></i> Individuals</h3>
+		<h3><i class="icon fa-regular fa-leaf"></i> Individuals</h3>
 		<p>
 		I listen to you with my full attention. I can ask you questions to discover new insights about yourself and
 		your situation. I can help you to find your own path through your lifes challenges. Because you know your
@@ -82,15 +83,16 @@ nav-menu: true
 			<li>get a grasp on difficult decisions</li>
 		</ul>
 	</div>
+	
 	<div class="4u 12u$(medium)">
-		<h3><i class="fa-regular fa-seedling"></i> Teams</h3>
+		<h3><i class="icon fa-regular fa-seedling"></i> Teams</h3>
 		<p>
 		
 		</p>
 	</div>
 	
-	<div class="4u$ 12u$(medium)"><span class="image fit"><img width="10%" src="{% link assets/images/organizing.png %}" alt="" /></span>
-		<h3><i class="fa-regular fa-tree-deciduous"></i> Organizations</h3>
+	<div class="4u$ 12u$(medium)">
+		<h3><i class="icon fa-regular fa-tree-deciduous"></i> Organizations</h3>
 		<p>
 			Organizing is a process that creates identity. It enables adaptation to the environment, so the organized can be effective in 
 			their environment.
