@@ -20,7 +20,8 @@ nav-menu: true
 		<!-- Content -->
 		<h2 id="content">Sample Content</h2>
 		<p>
-		Boundaries occur everywhere: the planet, the team. Limits of performance of a team or an individual. We may tend to focus on the individual to improve. Is that the key to unlocking potential? What about the interfaces? The interactions? 
+		Boundaries occur everywhere: the planet, the team. Limits of performance of a team or an individual. We may tend to focus on the individual to improve. 
+		Is that the key to unlocking potential? What about the interfaces? The interactions? 
 
 		How would it feel to renegotiate the balance at the boundary? 
 		Could we change the quality of the boundary? Or the quality of the connection across it?
@@ -30,11 +31,11 @@ nav-menu: true
 		</p>
 		<div class="row">
 			<div class="6u 12u$(small)">
-				<h3><i class="icon fa-regular fa-seedling"></i> Gatherings, groups and teams</h3>
+				<h3><i class="icon fa-solid fa-seedling"></i> Gatherings, groups and teams</h3>
 				<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 			</div>
 			<div class="6u$ 12u$(small)">
-				<h3><i class="icon fa-regular fa-tree-deciduous"></i> Organizations</h3>
+				<h3><i class="icon fa-solid fa-tree"></i> Organizations</h3>
 				<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
 			</div>
 		</div>
