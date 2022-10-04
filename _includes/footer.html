@@ -24,21 +24,21 @@
 		<section class="split">
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-solid fa-envelope"></span>
+					<span class="icon fa-solid fa-envelope"></span>
 					<h3>Email</h3>
 					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-solid fa-phone"></span>
+					<span class="icon fa-solid fa-phone"></span>
 					<h3>Phone</h3>
 					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-solid fa-home"></span>
+					<i class="fa-solid fa-home"></i>
 					<h3>Address</h3>
 					<span>
 					{% if site.street_address %}
@@ -70,7 +70,7 @@
 				{% for key_value in site.socials %}
 					{% if key_value[1] %}
 						<li>
-							<a href="{{ key_value[1] }}" class="icon alt fa-solid fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+							<a href="{{ key_value[1] }}" class="icon fa-solid fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
 								<span class="label">{{ key_value[0] }}</span>
 							</a>
 						</li>
