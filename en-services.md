@@ -43,7 +43,8 @@ nav-menu: true
 			</div>
 			<div class="4u 12u$(medium)">
 				<h3>Facilitation</h3>
-				<p>I design workshops, offsites and gatherings for smart and playful participants. Wonderfully, those are the ones that tend to show up.
+				<p>I design workshops, offsites and gatherings for smart and playful participants. 
+				Wonderfully, those are the ones that tend to show up.
 				When you work hard, you might as well enjoy the process.		
 				</p>
 				<ul>
@@ -79,8 +80,7 @@ nav-menu: true
 				</p>
 				<ul>
 					<li>develop yourself personally</li>
-					<li>find your path through concerns &amp; challenges in life</li>
-					<li>deal with conflict</li>
+					<li>find your path through conflicts, concerns &amp; challenges in life</li>
 					<li>get a grasp on difficult decisions</li>
 				</ul>
 			</div>
@@ -88,16 +88,28 @@ nav-menu: true
 			<div class="4u 12u$(medium)">
 				<h3><i class="icon fa-solid fa-seedling"></i> Teams</h3>
 				<p>
-				
+				I help all voices to be heard. Those of the inner teams of all members, and those of every person.
+				I support the group to form its own voice, to become conscious of the group becoming a team - a system
+				that follows its own goals and has its own needs.
 				</p>
+				<ul>
+					<li>discover the energies and talents available to the group
+					<li>find common purpose
+					<li>organize around a common strategy
+				</ul>
 			</div>
 			
 			<div class="4u$ 12u$(medium)">
 				<h3><i class="icon fa-solid fa-tree"></i> Organizations</h3>
 				<p>
-					Organizing is a process that creates identity. It enables adaptation to the environment, so the organized can be effective in 
-					their environment.
+				Organizing is a process that creates identity. It enables adaptation to the environment, so the organized can be effective in 
+				their environment.
 				</p>
+				<ul>
+					<li>think through organizational constraints, boundary conditions 
+					<li>find and establish ways of organizing work that fit the work and the environment in which it happens
+					<li>strengthen self-organization and emergence as adaptive mechanisms
+				</ul>				
 			</div>
 		</div>
 	</div>
