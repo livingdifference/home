@@ -30,7 +30,7 @@ nav-menu: true
 	
 		<div class="row">
 			<div class="4u 12u$(medium)">
-				<h3>Coaching</h3>
+				<h3><i class="fa-solid fa-comments"></i> Coaching</h3>
 				<p>Come into balance with your inner and outer environments. 
 				Become aware of yourself and the systems you're a part of. The good life good/health/happy = you co-create your environment). Focus of attention makes your world.
 				Help with failed attempts at changing behavior.
@@ -42,7 +42,7 @@ nav-menu: true
 				</ul>
 			</div>
 			<div class="4u 12u$(medium)">
-				<h3>Facilitation</h3>
+				<h3><i class="fa-solid fa-users-line"></i> Facilitation</h3>
 				<p>I design workshops, offsites and gatherings for smart and playful participants. 
 				Wonderfully, those are the ones that tend to show up.
 				When you work hard, you might as well enjoy the process.		
@@ -54,7 +54,7 @@ nav-menu: true
 				</ul>
 			</div>
 			<div class="4u$ 12u$(medium)">
-				<h3>Organizing</h3>
+				<h3><i class="fa-solid fa-forward"></i> Organizing</h3>
 				<p>I help self-organization to be born and strengthend. When groups and teams make their own rules, they tend to be the most
 				effective. I can guide you to set helpful boundaries.
 				</p>

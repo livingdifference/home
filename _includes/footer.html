@@ -84,11 +84,12 @@
 			<ul class="icons">
 				{% for key_value in site.socials %}
 					{% if key_value[1] %}
-						<li>
+						<li><h3>
 							<a href="{{ key_value[1] }}" class="fa-brands fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
 							    <!-- <span class="label">{{ key_value[0] }}</span>  -->
 								<!-- <h3><i class="fa-brands fa-{{ key_value[0] | downcase }}"></i></h3> -->
 							</a>
+							</h3>
 						</li>
 					{% endif %}
 				{% endfor %}

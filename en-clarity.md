@@ -34,15 +34,15 @@ I could help you navigate your next beginning.
 
 <div class="row">
 	<div class="4u 12u$(medium)">
-		<h3><i class="icon fa-solid fa-leaf"></i> Individuals</h3>
+		<h3><i class="fa-solid fa-leaf"></i> Individuals</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3><i class="icon fa-solid fa-seedling"></i> Teams</h3>
+		<h3><i class="fa-solid fa-seedling"></i> Teams</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3><i class="icon fa-solid fa-tree"></i> Organisations</h3>
+		<h3><i class="fa-solid fa-tree"></i> Organisations</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 </div>
