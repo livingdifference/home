@@ -1,6 +1,8 @@
 # site settings
 title: tomorrow
 subtitle: made by you
+de-title: morgen
+de-subtitle: gestalten
 email: hello@livingdifference.de
 description: coaching | facilitation | organizing <br /> for your regenerative future
 baseurl:  # the subpath of your site, e.g. /blog
