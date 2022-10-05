@@ -1,10 +1,10 @@
 ---
 layout: landing
-title: be clear
-description: on the difference you need to make
+title: Klarheit
+description: was dank dir anders wird
 image: assets/images/water-drop.jpg
 nav-menu: true
-language: en
+language: de
 ---
 
 
@@ -16,11 +16,11 @@ language: en
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Text here</h1>
+			<h1>Text hier</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
+<h2 id="content">Titel hier</h2>
 <p>
 The basic processes of living happen to organizations, teams and individuals. Yet do they go through their existence with awareness of these processes? 
 Individuals are born, as are companies. Neither are meant to stagnate. Groups become teams, but those may yet dissolve. Projects begin and end. 
