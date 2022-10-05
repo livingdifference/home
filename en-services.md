@@ -71,7 +71,7 @@ nav-menu: true
 		<!-- Individuals, teams, organizations -->
 		<div class="row">
 			<div class="4u 12u$(medium)">
-				<h3><i class="icon fa-solid fa-leaf"></i> Individuals</h3>
+				<h3><i class="fa-solid fa-leaf"></i> Individuals</h3>
 				<p>
 				I listen to you with my full attention. I can ask you questions to discover new insights about yourself and
 				your situation. I can help you to find your own path through your lifes challenges. Because you know your
@@ -86,29 +86,29 @@ nav-menu: true
 			</div>
 			
 			<div class="4u 12u$(medium)">
-				<h3><i class="icon fa-solid fa-seedling"></i> Teams</h3>
+				<h3><i class="fa-solid fa-seedling"></i> Teams</h3>
 				<p>
 				I help all voices to be heard. Those of the inner teams of all members, and those of every person.
 				I support the group to form its own voice, to become conscious of the group becoming a team - a system
 				that follows its own goals and has its own needs.
 				</p>
 				<ul>
-					<li>discover the energies and talents available to the group
-					<li>find common purpose
-					<li>organize around a common strategy
+					<li>discover the energies and talents available to the group</li>
+					<li>find common purpose</li>
+					<li>organize around a common strategy</li>
 				</ul>
 			</div>
 			
 			<div class="4u$ 12u$(medium)">
-				<h3><i class="icon fa-solid fa-tree"></i> Organizations</h3>
+				<h3><i class="fa-solid fa-tree"></i> Organizations</h3>
 				<p>
 				Organizing is a process that creates identity. It enables adaptation to the environment, so the organized can be effective in 
 				their environment.
 				</p>
 				<ul>
-					<li>think through organizational constraints, boundary conditions 
-					<li>find and establish ways of organizing work that fit the work and the environment in which it happens
-					<li>strengthen self-organization and emergence as adaptive mechanisms
+					<li>think through organizational constraints, boundary conditions </li>
+					<li>find and establish ways of organizing work that fit the work and the environment in which it happens</li>
+					<li>strengthen self-organization and emergence as adaptive mechanisms</li>
 				</ul>				
 			</div>
 		</div>
