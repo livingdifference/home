@@ -1,7 +1,7 @@
 ---
 title: transform
 layout: landing
-description: 'let go of the old differences'
+description: 'let go of differences that no longer serve'
 image: assets/images/butterfly.jpg
 nav-menu: true
 ---
