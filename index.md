@@ -1,11 +1,11 @@
 ---
 layout: home
 title: home
-en-landing-title: 'what will be different tomorrow?'
-de-landing-title: 'Was wird morgen anders?'
+landing-title: 'what will be different tomorrow?'
 description: null
 image: null
 author: null
+language: en
 show_tile: false
 ---
 

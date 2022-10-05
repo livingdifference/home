@@ -6,7 +6,9 @@
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	
 	<nav>
-		<a href="de-index.html">DE</a>
+		{% if page.language == "de" %} <a href="index.html">EN</a> {% endif %}
+		{% if page.language == "en" %} <a href="de-index.html">DE</a> {% endif %}
+
 		<a href="#menu">Menu</a>
 	</nav>
 </header>
