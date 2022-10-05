@@ -24,7 +24,7 @@
 		<section class="split">
 			<section>
 				<div class="contact-method">
-					<h3><i class="icon fa-solid fa-envelope"></i> Email</h3>
+					<h3><i class="fa-solid fa-envelope"></i> Email</h3>
 					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 				</div>
 			</section>
@@ -36,7 +36,8 @@
 			</section>
 			<section>
 				<div class="contact-method">
-					<h3><i class="fa-solid fa-home"></i> Address</h3>
+					<span><i class="fa-solid fa-home"></i></span>
+					<h3>Address</h3>
 					<span>
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
@@ -67,16 +68,16 @@
 				{% for key_value in site.socials %}
 					{% if key_value[1] %}
 						<li>
-							<a href="{{ key_value[1] }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
-								<!-- <span class="label">{{ key_value[0] }}</span> -->
-								<i class="fa-brands fa-{{ key_value[0] | downcase }}"></i>
+							<a href="{{ key_value[1] }}" class="fa-brands fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+							    <span class="label">{{ key_value[0] }}</span> 
+								<!--<i class="fa-brands fa-{{ key_value[0] | downcase }}"></i>-->
 							</a>
 						</li>
 					{% endif %}
 				{% endfor %}
 			</ul>
 			<ul class="copyright">
-				<li>&copy; Matthias Schmitt, 2022 onwards</li>
+				<li>&copy; Matthias Schmitt, 2022-2024</li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
 				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
 
