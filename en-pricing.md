@@ -2,8 +2,9 @@
 layout: landing
 title: pricing
 description: 
-image: assets/images/water-drop.jpg
+image: 
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->

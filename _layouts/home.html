@@ -16,10 +16,17 @@
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
-                <h1>{{ page.landing-title }}</h1>
+                <h1>{{ page.landing-title }}</h1> <!-- pages have a language tag, and for each language there is one md-file per page -->
             </header>
             <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                <p style="text-transform: uppercase;">
+					{% if page.language == "de" %}
+						{{ site.de-description }}
+					{% endif %}
+					{% if page.language == "en" %}
+						{{ site.description }}
+					{% endif %}					
+				</p>
                 <ul class="actions">
                     <li><a href="#one" class="button next scrolly">Get Started</a></li>
                 </ul>

@@ -12,7 +12,14 @@
 					<input type="text" name="_replyto" id="email" />
 				</div>
 				<div class="field">
-					<label for="message">Message</label>
+					<label for="message">
+					{% if page.language == "en" %}
+						Message
+					{% endif %}
+					{% if page.language == "de" %}
+						Nachricht
+					{% endif %}					
+					</label>
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
