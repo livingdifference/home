@@ -37,10 +37,10 @@ nav-menu: true
 				</header>
 				
 				<p>What do you leave behind? What would you like to let go of? What is your legacy going to be? 
-				   Often, we’d rather not think about the end of life of anything: our organizations, projects, products, animals or human beings - even a single act. 
-				   What would happen were we to look at the value and the waste, life and death, head and heart,  joy and suffering? 
-				   Can we create circular economies without re-imagining what ‘waste’ is? Can we live deeply without thinking about our end? Can we enjoy forever? 
-				   Life is about bounded processes. Inner and outer, and the membrane between. Beginnings and endings.				
+				   Often, we’d rather not think about the end of life of anything: our projects, products, or the planet. 
+				   What would happen were we to look at the beginning and the ending, value and the waste, life and death, head and heart, joy and suffering? 
+				   For example: can we create circular economies without re-imagining what 'waste' is? Can we live deeply without thinking about our end? 
+				   Life is about bounded processes. Inner and outer, and the membrane between.
 				</p>
 				<ul class="actions">
 					<li><a href="en-services.html" class="button">Start the conversation</a></li>
