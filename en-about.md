@@ -4,6 +4,7 @@ title: about
 description: regenerative futures
 image: 
 nav-menu: false
+language: en
 ---
 
 <!-- Main -->

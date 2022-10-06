@@ -20,15 +20,20 @@
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">
-					{% if page.language == "de" %}
+					{% if page.language == "de" %}  <!-- for site-attributes (global) we need an attribute in each language, and need to condition the site frame -->
 						{{ site.de-description }}
 					{% endif %}
 					{% if page.language == "en" %}
 						{{ site.description }}
-					{% endif %}					
+					{% endif %}
 				</p>
                 <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
+					{% if page.language == "en" %}
+	                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
+					{% endif %}
+					{% if page.language == "de" %}
+	                    <li><a href="#one" class="button next scrolly">Los geht's</a></li>
+					{% endif %}					
                 </ul>
             </div>
         </div>
@@ -44,11 +49,21 @@
         <section id="two">
             <div class="inner">
                 <header class="major">
+				{% if page.language == "en" %}
                     <h2>my offer</h2>
+				{% endif %}
+				{% if page.language == "de" %}
+                    <h2>Mein Angebot</h2>
+				{% endif %}				
                 </header>
                 <p>{{ content }}</p> <!-- see index.md -->
                 <ul class="actions">
+					{% if page.language == "en" %}
                     <li><a href="en-services.html" class="button next">Get in touch</a></li>
+					{% endif %}
+					{% if page.language == "de" %}
+                    <li><a href="de-services.html" class="button next">Kontakt</a></li>
+					{% endif %}				
                 </ul>
             </div>
 			

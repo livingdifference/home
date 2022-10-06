@@ -3,7 +3,23 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<a href="{{ "" | absolute_url }}/" class="logo"><strong>
+	{% if page.language == "en" %}
+		{{ site.title }}
+	{% endif %}	
+	{% if page.language == "de" %}
+		{{ site.de-title }}
+	{% endif %}	
+	</strong> 
+	<span>
+	{% if page.language == "en" %}
+		{{ site.subtitle }}
+	{% endif %}	
+
+	{% if page.language == "de" %}
+		{{ site.de-subtitle }}
+	{% endif %}	
+	</span></a>
 	
 	<nav>
 		{% if page.language == "de" %} <a href="index.html">EN</a> {% endif %}
@@ -16,14 +32,14 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
+        {% for p in site.pages %}
+		    {% if p.layout == "home" and p.language == page.language %}
+		        <li><a href="{{ "" | absolute_url }}/">{{ p.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
-		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+		{% for p in site.html_pages %}
+		    {% if p.layout != "home" and p.nav-menu == true and p.language == page.language %}
+		        <li><a href="{{ p.url | absolute_url }}">{{ p.title }}</a></li>
 		    {% endif %}
 		{% endfor %}
 	</ul>

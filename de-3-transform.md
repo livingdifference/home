@@ -1,10 +1,10 @@
 ---
-title: transform
+title: Wandlung
 layout: landing
-description: 'let go of differences that no longer serve'
+description: 'Loslassen, was nicht mehr gebraucht wird'
 image: assets/images/butterfly.jpg
 nav-menu: true
-language: en
+language: de
 ---
 
 <!-- Main -->
@@ -14,7 +14,7 @@ language: en
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>a caterpillar is not supposed to die as a caterpillar</h2>
+			<h2>Eine Raupe </h2>
 		</header>
 		<p>
 			... but rather, it is meant to transform into a butterfly. When it starts transforming, it has been very effective in its own environment
