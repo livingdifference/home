@@ -23,8 +23,14 @@
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
+					{% if page.language == "en" %}
 					<li><input type="submit" value="Send Message" class="special" /></li>
 					<li><input type="reset" value="Clear" /></li>
+					{% endif %}
+					{% if page.language == "de" %}
+					<li><input type="submit" value="Senden" class="special" /></li>
+					<li><input type="reset" value="Löschen" /></li>
+					{% endif %}
 				</ul>
 			</form>
 		</section>
@@ -47,7 +53,13 @@
 						<div><h3><i class="fa-solid fa-phone"></i></h3>
 						</div>
 						<div>
+							{% if page.language == "en" %}
 							<h3>Phone</h3>
+							{% endif %}
+							{% if page.language == "de" %}
+							<h3>Telefon</h3>
+							{% endif %}
+
 							<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
 						</div>
 					</div>
@@ -59,7 +71,13 @@
 						<div><h3><i class="fa-solid fa-home"></i></h3>
 						</div>
 						<div>
+						{% if page.language == "en" %}
 						<h3>Address</h3>
+						{% endif %}
+						{% if page.language == "de" %}
+						<h3>Adresse</h3>
+						{% endif %}
+
 						<span>
 						{% if site.street_address %}
 							{{ site.street_address }}<br />

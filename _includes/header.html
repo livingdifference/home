@@ -3,7 +3,15 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>
+
+	{% if page.language == "en" %}
+	<a href="{{ "" | absolute_url }}/" class="logo">
+	{% endif %}	
+	{% if page.language == "de" %}
+	<a href="{{ "" | absolute_url }}/de-index.html" class="logo">
+	{% endif %}	
+	
+	<strong>
 	{% if page.language == "en" %}
 		{{ site.title }}
 	{% endif %}	
@@ -11,6 +19,7 @@
 		{{ site.de-title }}
 	{% endif %}	
 	</strong> 
+	
 	<span>
 	{% if page.language == "en" %}
 		{{ site.subtitle }}

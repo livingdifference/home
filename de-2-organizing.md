@@ -4,7 +4,7 @@ title: Werde wirksam
 description: make a difference - <br>in your life, in your context
 image: assets/images/caterpillar.jpg
 nav-menu: true
-language: en
+language: de
 ---
 
 

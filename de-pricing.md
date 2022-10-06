@@ -1,11 +1,11 @@
 ---
 layout: landing
-title: pricing
+title: Preise
 description: 
 image: 
 nav-menu: true
+language: de
 show_tile: false
-language: en
 ---
 
 <!-- Main -->
@@ -19,7 +19,7 @@ language: en
 		</header>
 
 		<!-- Content -->
-		<h2 id="content">Sample Content</h2>
+		<h2 id="content">Preise</h2>
 
 
 		<div class="table-wrapper">
