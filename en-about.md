@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: about
-description: me & and the living difference
+description: me &amp; the living difference
 image: 
 nav-menu: false
 language: en
@@ -46,11 +46,11 @@ language: en
 		individual person and the collective. That's true for companies, teams or families alike. 
 		</p>
 		<p>
-		Here, my journey came full circle. The fact that large organizations with industrial cultures and thought-patterns feel lifeless for many of their members will not change if
-		all the members get an individual coaching, or if there's a good meeting every now and then.
+		For a few years, I worked as a change agent and organization consultant for a large financial institution. 
 		</p>
 		<p>
-		For a few years, I worked as a change agent and organization consultant for a large financial institution. 
+		Here, my journey came full circle. The fact that large organizations with industrial cultures and thought-patterns feel lifeless for many of their members will not change even if
+		all the members get individual coaching, or if there's a good meeting every now and then.
 		</p>
 		<p>
 		I saw how organisations are made. Someone decides the <a href="https://www.youtube.com/watch?v=MsLmjoAp_Dg" target="_blank"><!-- Dave Snowden -->formal structure and the formal constraints</a>, the 
@@ -75,8 +75,14 @@ language: en
 		our regenerative future with you: a future when we stop extracting more from people and planet than we give back to it. One source of inspiration for my work are therefore 
 		the <a href="https://www.innerdevelopmentgoals.org/" target="_blank">Inner Development Goals</a>.  
 		</p>
+
+		<ul class="actions">
+			<li><a href="en-services.html" class="button">Work with me</a></li>
+		</ul>
+
 	</div>
 </section>
+
 
 </div>
 
