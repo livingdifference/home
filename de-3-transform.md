@@ -1,7 +1,7 @@
 ---
 title: Wandlung
 layout: landing
-description: 'Loslassen, was nicht mehr gebraucht wird'
+description: 'Loslassen, was nicht mehr hilfreich ist'
 image: assets/images/butterfly.jpg
 nav-menu: true
 language: de

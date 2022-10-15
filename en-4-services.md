@@ -15,38 +15,40 @@ language: en
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>I support individuals, groups and organizations to become their best selves</h2>
+			<h2>I support individuals, groups and organizations to become their better selves</h2>
 		</header>
 
 		<!-- Content -->
 		<p>
-		I’d like to help you weave the web of your life. Whether you are an individual, a group or an organization - if you would 
-		like to playfully explore and improve your relationships, your boundaries, the chains you’re a part of, your purpose and 
-		the roles you play,  the challenges within and around you, I’d be happy to support you.
+		Whether you are an individual, a group or an organization - I'd like to help you weave the web of your life. 
+		Whether you would like to playfully explore and improve your relationships, your boundaries, the chains you're a part of, your purpose and 
+		the roles you play, the challenges within and around you, I'd be happy to support you:
 		</p>
 
-		<p>
-		Imagine you could be yourself: a force for good. For you - and in the web of life around you.
-		</p>
-	
+		
 		<div class="row">
 			<div class="4u 12u$(medium)">
 				<h3><i class="fa-solid fa-comments"></i> Coaching</h3>
-				<p>Come into balance with your inner and outer environments. 
-				Become aware of yourself and the systems you're a part of. The good life good/health/happy = you co-create your environment). Focus of attention makes your world.
-				Help with failed attempts at changing behavior.
+				<p>
+				Bring your head and your heart into a conversation with each other.
+				Come into balance with your inner and outer environments. 
+				Become aware of yourself and the many contexts you're a part of. 
+				You co-create your life! What you focus your attention on has a strong 
+				impact on you and your world. 
+				<!-- Help with failed attempts at changing behavior. -->
 				</p>
 				<ul>
 					<li>person-centered approach</li>
-					<li>systems thinking at the core</li>
+					<li>systemic at the core</li>
 					<li>constructivist</li>
 				</ul>
 			</div>
 			<div class="4u 12u$(medium)">
 				<h3><i class="fa-solid fa-users-line"></i> Facilitation</h3>
-				<p>I design workshops, offsites and gatherings for smart and playful participants. 
-				Wonderfully, those are the ones that tend to show up.
-				When you work hard, you might as well enjoy the process.		
+				<p>Let's meet at workshops, offsites and gatherings with smart and playful participants. 
+				Let's meet to have an impact: to decide, bond, learn and do. 
+				When meetings are facilitated with such people and objectives in mind,
+				you get stuff done, and you might just as well enjoy the process.	
 				</p>
 				<ul>
 					<li>playful and structured</li>
@@ -56,8 +58,9 @@ language: en
 			</div>
 			<div class="4u$ 12u$(medium)">
 				<h3><i class="fa-solid fa-forward"></i> Organizing</h3>
-				<p>I help self-organization to be born and strengthend. When groups and teams make their own rules, they tend to be the most
-				effective. I can guide you to set helpful boundaries.
+				<p>Organisations are not machines. People will always self-organize around the formal constraints 
+				of the organization. And that is an adaptive advantage. When groups and teams make their own rules, they tend to be the most
+				effective. Let's help self-organization to be born and strengthend. I can guide you to set helpful boundaries.
 				</p>
 				<ul>
 					<li>agile methodologies</li>

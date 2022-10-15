@@ -14,13 +14,14 @@ language: en
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>a caterpillar is not supposed to die as a caterpillar</h2>
+			<h2>the story of the caterpillar</h2>
 		</header>
 		<p>
-			... but rather, it is meant to transform into a butterfly. When it starts transforming, it has been very effective in its own environment
-			eating up all the leafs - the basis of its very life. Transformation becomes an imperative. It involves unlearning to be a caterpillar and
-			re-shaping the boundaries of its body, its perception and its behavior. Their behavior becomes regenerative: they pollinate flowers.
+			A caterpillar is not supposed to die as a caterpillar. Rather, it is meant to transform into a butterfly. When it starts transforming, it has been very effective in its own environment.
+			It's been eating up all the leafs - the basis of its very life. Transformation then becomes an imperative. It involves unlearning to be a caterpillar and
+			re-shaping the boundaries of its body, its perception and its behavior. Its behavior becomes regenerative: as a butterfly, it pollinates flowers.
 		</p>
+		<p>As an individual, a team or an organisatio - what could your transformation to a regenerative you look like?</p>
 	</div>
 </section>
 
@@ -38,13 +39,13 @@ language: en
 				</header>
 				
 				<p>What do you leave behind? What would you like to let go of? What is your legacy going to be? 
-				   Often, we’d rather not think about the end of life of anything: our projects, products, or the planet. 
-				   What would happen were we to look at the beginning and the ending, value and the waste, life and death, head and heart, joy and suffering? 
-				   For example: can we create circular economies without re-imagining what 'waste' is? Can we live deeply without thinking about our end? 
+				   Often, we'd rather not think about the end of life of anything: our projects, products, or even life on this planet. 
+				   What would happen were we to look at the beginning <i>and</i> the ending, value <i>and</i> the waste, life and death, head and heart, joy and suffering? 
+				   For example: can we create circular economies without re-imagining what 'waste' is? Can we live deeply without thinking about our end and ends? 
 				   Life is about bounded processes. Inner and outer, and the membrane between.
 				</p>
 				<ul class="actions">
-					<li><a href="en-services.html" class="button">Start the conversation</a></li>
+					<li><a href="en-services.html" class="button">Let's have a look</a></li>
 				</ul>
 			</div>
 		</div>
@@ -77,7 +78,9 @@ language: en
 		<header class="major">
 			<h2>What can we achieve together?</h2>
 		</header>
-		<p>I’d like to help you weave the web of your life. Whether you are an individual, a group or an organization - if you would like to playfully explore and improve your relationships, your boundaries, the chains you’re a part of, your purpose and the roles you play,  the challenges within and around you, I’d be happy to support you.
+		<p>I'd like to help you weave the web of your life. Whether you are an individual, a group or an organization - if you would like to playfully explore 
+		and improve your relationships, your boundaries, the chains you're a part of, your purpose and the roles you play,  the challenges within and around you, 
+		I'd be happy to support you.
 		</p>
 		<p>
 			Imagine you could be yourself: a force for good. For you - and in the web of life around you.
