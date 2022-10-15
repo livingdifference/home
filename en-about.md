@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: about
-description: me & and the journey to <i>the living difference</i>
+description: me & and the living difference
 image: 
 nav-menu: false
 language: en
@@ -14,7 +14,7 @@ language: en
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Hello, I'm Matthias</h2>
+			<h2>Hello, I'm Matthias...</h2>
 		</header>
 
 		<!-- Content -->

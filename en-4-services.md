@@ -39,7 +39,7 @@ language: en
 				</p>
 				<ul>
 					<li>person-centered approach</li>
-					<li>systemic at the core</li>
+					<li>systemic &amp; context-aware at the core</li>
 					<li>constructivist</li>
 				</ul>
 			</div>

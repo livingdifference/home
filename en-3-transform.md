@@ -17,11 +17,13 @@ language: en
 			<h2>the story of the caterpillar</h2>
 		</header>
 		<p>
-			A caterpillar is not supposed to die as a caterpillar. Rather, it is meant to transform into a butterfly. When it starts transforming, it has been very effective in its own environment.
-			It's been eating up all the leafs - the basis of its very life. Transformation then becomes an imperative. It involves unlearning to be a caterpillar and
+			A caterpillar is not supposed to die as a caterpillar. Rather, it is meant to transform into a butterfly. Before it starts transforming, it has been very effective in its own environment.
+			It's been eating up all the leaves - the basis of its very life. Transformation then becomes an imperative. 
+		</p>	
+		<p>It involves unlearning to be a caterpillar and
 			re-shaping the boundaries of its body, its perception and its behavior. Its behavior becomes regenerative: as a butterfly, it pollinates flowers.
 		</p>
-		<p>As an individual, a team or an organisatio - what could your transformation to a regenerative you look like?</p>
+		<p>As an individual, a team or an organisation - what could your transformation to a regenerative you look like?</p>
 	</div>
 </section>
 
