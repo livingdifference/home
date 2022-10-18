@@ -60,7 +60,7 @@ language: en
 		world of <a href="https://www.youtube.com/watch?v=cA_c6Xo806g" target="_blank">socio-technical systems</a>. What we want to produce, what we need to create needs to inform how we organize and vice versa.
 		</p>
 		<p>
-		<i>Together, we can transform systems, creating the identities fit for purpose</i>. 
+		<i>Together, we can transform systems, co-creating identities fit for purpose</i>. 
 		</p>
 		<h3>the future</h3>
 		<p>
