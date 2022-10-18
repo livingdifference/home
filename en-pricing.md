@@ -26,7 +26,7 @@ language: en
 		to make the world a better place, your success is the very reason <i>the living difference</i> exists.
 		</p>
 
-		<p>All pricing includes applicable taxes. If you can't afford the rates, let's talk it over. It really 
+		<p>All prices below include applicable taxes. If you can't afford the rates, let's talk it over. It really 
 		depends on who you are and what you'd like to achieve. Still up for a change? </p>
 		<p>
 		<ul class="actions">
@@ -52,7 +52,7 @@ language: en
 							wanted to be more disciplined practicing piano or
 							saw a need to improve their leadership style
 							</td>
-						<td>100 €/hr</td>
+						<td style="white-space:nowrap;">100 €/hr</td>
 					</tr>
 					<tr>
 						<td>Facilitation for gatherings and workshops, team coaching </td>
@@ -60,12 +60,12 @@ language: en
 						starting a new initiative, reflect collaboration of the team or innovation. 
 						I co-created citizen gatherings for action on climate, and helped citizens initiatives 
 						with facilitation of their group processes.</td>
-						<td>1.000 €/d</td>
+						<td style="white-space:nowrap;">1.000 €/d</td>
 					</tr>
 					<tr>
 						<td>Consulting for effective organizing and organizational development </td>
 						<td> </td>
-						<td>1.500 €/d</td>
+						<td style="white-space:nowrap;">1.500 €/d</td>
 					</tr>
 				</tbody>
 			</table>
