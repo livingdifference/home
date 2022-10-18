@@ -19,10 +19,20 @@ language: en
 		</header>
 
 		<!-- Content -->
+		<p>
 		I don’t care what you work on - whether it’s climate change, global poverty,
 		self management, social enterprise, planting trees, gender equality,
 		decolonisation, or steady state economics. If your primary mission is
 		to make the world a better place, your success is the very reason <i>the living difference</i> exists.
+		</p>
+
+		<p>All pricing includes applicable taxes. If you can't afford the rates, let's talk it over. It really 
+		depends on who you are and what you'd like to achieve. Still up for a change? </p>
+		<p>
+		<ul class="actions">
+		<li><a href="#contact" class="button next">Get in touch</a></li>
+		</ul>
+		</p>
 
 		<div class="table-wrapper">
 			<table class="alt">
@@ -61,12 +71,7 @@ language: en
 			</table>
 		</div>
 
-		<p>All pricing includes applicable taxes. If you can't afford the rates, let's talk it over. It really 
-		depends on who you are and what you'd like to achieve. Still up for a change? </p>
-		<ul class="actions">
-		<li><a href="#contact" class="button next">Get in touch</a></li>
-		</ul>
-		</p>	
+
 	</div>
 
 </section>	
