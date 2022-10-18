@@ -15,12 +15,14 @@ language: en
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Text here</h1>
+			<h2>let's create value together</h2>
 		</header>
 
 		<!-- Content -->
-		<h2 id="content">Sample Content</h2>
-
+		I don’t care what you work on - whether it’s climate change, global poverty,
+		self management, social enterprise, planting trees, gender equality,
+		decolonisation, or steady state economics. If your primary mission is
+		to make the world a better place, your success is the very reason <i>the living difference</i> exists.
 
 		<div class="table-wrapper">
 			<table class="alt">
@@ -58,14 +60,17 @@ language: en
 				</tbody>
 			</table>
 		</div>
+
+		<p>All pricing includes applicable taxes. If you can't afford the rates, let's talk it over. It really 
+		depends on who you are and what you'd like to achieve. Still up for a change? </p>
+		<ul class="actions">
+		<li><a href="#contact" class="button next">Get in touch</a></li>
+		</ul>
+		</p>	
 	</div>
+
 </section>	
 
-<p>All pricing includes applicable taxes. If you can't afford the rates, let's talk it over. It really depends on who you are and what you'd like to achieve.
-Still up for a change? </p>
-<ul class="actions">
-	<li><a href="#contact" class="button next">Get in touch</a></li>
-</ul>
-</p>	
+
 	
 </div>
