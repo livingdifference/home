@@ -3,7 +3,7 @@ layout: landing
 title: be effective
 description: make a difference - <br>in your life, in your context
 image: assets/images/caterpillar.jpg
-nav-menu: true
+nav-menu: false
 language: en
 ---
 

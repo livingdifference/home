@@ -2,7 +2,7 @@
 layout: landing
 title: services
 description: coaching | facilitation | organizing
-image: 
+image: assets/images/stepping-stones.jpg
 nav-menu: true
 language: en
 ---

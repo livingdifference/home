@@ -3,7 +3,7 @@ layout: landing
 title: about
 description: me &amp; the living difference
 image: 
-nav-menu: false
+nav-menu: true
 language: en
 ---
 
