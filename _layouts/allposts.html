@@ -25,15 +25,17 @@
 	    <h2>{{ post.title }}</h2>
 	  </header>
 	  {% if post.image %}
-    <span style="text-align:center"> 
+    <span> 
+      <center>
       <img src="{{ site.baseurl }}/{{ post.image }}" 
            alt="" 
            style="
-              height: 10%;
+              max-height: 10%;
               background-position: center center;
               background-repeat: no-repeat;
               background-size: cover;
               border-radius: 25% 75% / 50%;"/>
+      </center>
     </span>
     {% endif %}
 	  {% if post.date %}<p>{{ post.date }}</p>{% endif %}
