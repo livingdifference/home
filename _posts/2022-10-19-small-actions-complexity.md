@@ -3,6 +3,7 @@ layout: post
 title: Small actions change systems
 description: A keynote by Dave Snowden
 image: assets/images/stepping-stones.jpg
+language: en
 ---
 
 

@@ -40,7 +40,8 @@
                 </center>
               </span>
               {% endif %}
-              <p>{{ post.content | truncatewords: 100 }} ... </p>
+              <p>{{ post.content | truncatewords: 100 }} </p>
+              <a href="{{ post.url | absolute_url }}">continue reading</a>
               {% endif %}
           {% endfor %}
 	    </div>
