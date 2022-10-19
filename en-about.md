@@ -39,7 +39,7 @@ language: en
 		so they may flourish and self-actualize in balance and connection with their environment. 
 		</p>
 		<p>
-		A lot of change can start with you, <i>you can become and make a living difference</i>.
+		A lot of change can start with you. <i>You can become and make a living difference</i>.
         </p>
 		
 		<h3>organizing</h3>	
