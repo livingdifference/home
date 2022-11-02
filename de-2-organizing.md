@@ -1,7 +1,7 @@
 ---
 layout: landing
-title: Werde wirksam
-description: make a difference - <br>in your life, in your context
+title: Wirksamkeit
+description: für dich in deinem Kontext 
 image: assets/images/caterpillar.jpg
 nav-menu: true
 language: de

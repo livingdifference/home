@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Services
+title: Angebot
 description: Coaching | Moderation | Organisation
 image: 
 nav-menu: true
@@ -15,7 +15,7 @@ language: de
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>I unterstütze Einzelne, Gruppen und Organisationen, ihr bestes Selbst zu werden</h2>
+			<h2>Ich unterstütze Einzelne, Gruppen und Organisationen, ihr besseres Selbst zu werden</h2>
 		</header>
 
 		<!-- Content -->

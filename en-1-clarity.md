@@ -15,403 +15,158 @@ language: en
 <!-- One -->
 <section id="one">
 	<div class="inner">
+	<!--
 		<header class="major">
 			<h1>Text here</h1>
 		</header>
-
+    -->
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
+<h2 id="content">You are looking for someone to help you figure it out. Welcome!</h2>
 <p>
-The basic processes of living happen to organizations, teams and individuals. Yet do they go through their existence with awareness of these processes? 
-Individuals are born, as are companies. Neither are meant to stagnate. Groups become teams, but those may yet dissolve. Projects begin and end. 
-But what does it mean to truly grow?   
+Whatever you'd like to bring to our conversation, I would like to help you find your own path to clarity:
+</p>
+<p>
+<b>Where you start?</b> What are current conditions in which your challenge emerges and shows itself?
+Looking at the present state of things I can help you to find the dispositions of that state.
 
-Being born and giving birth is painful and disorienting, it hurts and is fraught with uncertainties. And yet in our memory, new beginnings may be the 
-most beautiful things. Is there something that tries to be born in your life?
+It takes a lot of energy to change something that has no disposition to change. We find stepping-stones to 
+enable low-energy emergence of change in an evolutionary process.
+
+<b>What direction would you like to take?</b> What needs to grow, what needs to shrink? What stories would you like to hear
+or tell more often, which stories would you like to see fewer of? What needs to be amplified, what should be dampened? 
+
+Every change involves something new being born, and something existing to cease. The letting go part is sometimes overlooked. But it might
+be more difficult than acting on the new. If you can't let go of what is now, the best plan for execution will not help.
+ 
+<b>What constraints do you want to set?</b> Limit your invest etc. what do you say no to?
+
 </p>
-<p>
-I could help you navigate your next beginning.
-</p>
+
 
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h3><i class="fa-solid fa-leaf"></i> Individuals</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>
+		What do you say yes to? And what do you say no to? What source do you take your energy from - and what zaps it out of you?
+		Regeneration starts with you, the individual, with needs and 
+		
+		You would like to make a difficult decision, you need to manage a conflict, you would like to change some aspect of your 
+		world.
+		
+		I can help you to gain clarity on decisions, conflict, 
+		
+		In each of these situations, working together, we discover deeper insight into what 
+		</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3><i class="fa-solid fa-seedling"></i> Teams</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>
+		
+		purpose
+		effective interactions
+			among each other
+			with those that interact with you.
+		
+		</p>
+		
+		<ul>
+		<li>ikigai</li>
+		<li>golden circle</li>
+		</ul>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3><i class="fa-solid fa-tree"></i> Organisations</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>
+		Organizing creates identities. 
+		What identities do 
+		What is at the core of these identities? Expertise? Common goals? 
+		The way you structure groups and teams has a strong influence on the structure of the output.
+
+		Organizing is a process, organization is temporary.
+		No matter what your map of the organization looks like - 
+		
+		Organizing depends on make the system see itself: 
+		
+		what can we do today to get different stories tomorrow? 
+		New direction of travel, not an endpoint in some years time.
+		</p>
+		
+		<ul>
+		<li>Cynefin</li>
+		<li>5 whys</li>
+		</ul>
 	</div>
 </div>
+
+Once you gained sufficient clarity for yourself, we can continue together if you like - to bring about effective change.
+
+
+
+
+-----
+
+
+
+I'd like to help your change to be born and grow
+
+
+There are many changes and challenges in every persons life: You might have hard decisions to make. Difficulties in your interactions with other 
+people in your life. A new team starts up and that creates a new purpose and identity. After a project ends you feel without direction. Your organization
+needs to adapt to new conditions.
+
+
+What does it mean to truly grow?
+Being born and giving birth is painful and disorienting, it hurts and is fraught with uncertainties. And yet new beginnings may be the 
+most beautiful memories we have. Is there something that tries to be born in your life?
+I could help you navigate your next beginning.
+
+
+How do you act in the world under uncertainty?
+
+
+ 
+I'd like to help you gain clarity.
+
+In order to change we need to figure out where we are, and what direction we want to take. Then we try to take the first step.
+
+<b>Purpose</b> 
+
+why do you exist|what do you believe needs to happen? What outcome would you like to achieve? How do you, how does the team, how does the organization
+
+ 
+
+
+ 
+
+ 
+
+Link to next page: Be effective: build stepping stones from where you are to where you would like to be. Aka make a “plan”
+
+ 
+
+Methods: Cynefin, Ikigai, solution-focused interviewing
+
+ 
+
+Individuals | teams =>coaching  concern/  intent for the session? =>
+
+ 
 
 <hr class="major" />
 
-<!-- Elements -->
-<h2 id="elements">Elements</h2>
-<div class="row 200%">
-	<div class="6u 12u$(medium)">
-
-<!-- Text stuff -->
-<h3>Text</h3>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>
-<hr />
-<h2>Heading Level 2</h2>
-<h3>Heading Level 3</h3>
-<h4>Heading Level 4</h4>
-<hr />
-<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-
-<!-- Lists -->
-<h3>Lists</h3>
-<div class="row">
-	<div class="6u 12u$(small)">
-
-		<h4>Unordered</h4>
-		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
-		</ul>
-
-		<h4>Alternate</h4>
-		<ul class="alt">
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis feugiat viverra.</li>
-		</ul>
-
-	</div>
-	<div class="6u$ 12u$(small)">
-
-		<h4>Ordered</h4>
-		<ol>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-		</ol>
-
-		<h4>Icons</h4>
-		<ul class="icons">
-			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-			<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
-		</ul>
-		<ul class="icons">
-			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-		</ul>
-
-	</div>
-</div>
-
-<h4>Definition</h4>
-<dl>
-	<dt>Item1</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item2</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item3</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-</dl>
-
-<h4>Actions</h4>
-<ul class="actions">
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions small">
-	<li><a href="#" class="button special small">Small</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special">Default</a></li>
-			<li><a href="#" class="button">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small">Small</a></li>
-			<li><a href="#" class="button small">Small</a></li>
-		</ul>
-	</div>
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special fit">Default</a></li>
-			<li><a href="#" class="button fit">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small fit">Small</a></li>
-			<li><a href="#" class="button small fit">Small</a></li>
-		</ul>
-	</div>
-</div>
-
-<!-- Blockquote -->
-<h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
-
-<!-- Table -->
-<h3>Table</h3>
-
-<h4>Default</h4>
-<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
-
-<h4>Alternate</h4>
-<div class="table-wrapper">
-	<table class="alt">
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
-
-</div>
-<div class="6u$ 12u$(medium)">
-
-<!-- Buttons -->
-<h3>Buttons</h3>
-<ul class="actions">
-	<li><a href="#" class="button special">Special</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button big">Big</a></li>
-	<li><a href="#" class="button">Default</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special big">Big</a></li>
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button special small">Small</a></li>
-</ul>
-<ul class="actions fit">
-	<li><a href="#" class="button special fit">Fit</a></li>
-	<li><a href="#" class="button fit">Fit</a></li>
-</ul>
-<ul class="actions fit small">
-	<li><a href="#" class="button special fit small">Fit + Small</a></li>
-	<li><a href="#" class="button fit small">Fit + Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special icon fa-search">Icon</a></li>
-	<li><a href="#" class="button icon fa-download">Icon</a></li>
-</ul>
-<ul class="actions">
-	<li><span class="button special disabled">Special</span></li>
-	<li><span class="button disabled">Default</span></li>
-</ul>
-
-<!-- Form -->
-<h3>Form</h3>
-
-<form method="post" action="#">
-	<div class="row uniform">
-		<div class="6u 12u$(xsmall)">
-			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
-		</div>
-		<div class="6u$ 12u$(xsmall)">
-			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<div class="select-wrapper">
-				<select name="demo-category" id="demo-category">
-					<option value="">- Category -</option>
-					<option value="1">Manufacturing</option>
-					<option value="1">Shipping</option>
-					<option value="1">Administration</option>
-					<option value="1">Human Resources</option>
-				</select>
-			</div>
-		</div>
-		<!-- Break -->
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
-			<label for="demo-priority-low">Low</label>
-		</div>
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-normal" name="demo-priority">
-			<label for="demo-priority-normal">Normal</label>
-		</div>
-		<div class="4u$ 12u$(small)">
-			<input type="radio" id="demo-priority-high" name="demo-priority">
-			<label for="demo-priority-high">High</label>
-		</div>
-		<!-- Break -->
-		<div class="6u 12u$(small)">
-			<input type="checkbox" id="demo-copy" name="demo-copy">
-			<label for="demo-copy">Email me a copy</label>
-		</div>
-		<div class="6u$ 12u$(small)">
-			<input type="checkbox" id="demo-human" name="demo-human" checked>
-			<label for="demo-human">I am a human</label>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<ul class="actions">
-				<li><input type="submit" value="Send Message" class="special" /></li>
-				<li><input type="reset" value="Reset" /></li>
-			</ul>
-		</div>
-	</div>
-</form>
-
-<!-- Image -->
-<h3>Image</h3>
-
-<h4>Fit</h4>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-	</div>
-</div>
-
-<h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-
-<!-- Box -->
-<h3>Box</h3>
 <div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
+	<p>
+	The basic processes of living happen to organizations, teams and individuals. Yet do they go through their existence with awareness of these processes? 
+	Individuals are born, as are companies. Neither are meant to stagnate. Groups become teams, but those may yet dissolve. Projects begin and end. 
+	
+	I invite you 
+	to imagine what your world looks like when our collaboration ends successfully. 
+	</p>
 </div>
 
-<!-- Preformatted Code -->
-<h3>Preformatted</h3>
-<pre><code>i = 0;
 
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
 
-print 'It took ' + i + ' iterations to sort the deck.';
-</code></pre>
 
-</div>
-</div>
-
-</div>
 </section>
 
 </div>

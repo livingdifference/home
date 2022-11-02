@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
+title: Radical hope 
+description: Ethics in the face of cultural devastation
 image: assets/images/pic05.jpg
 ---
 

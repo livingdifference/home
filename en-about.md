@@ -36,7 +36,7 @@ language: en
 		The quest of understanding the interplay between individuals and social context led me to train as a systemic coach. Systemic, because I work with you in <i>your context</i>. 
 		Coach, because I work <i>with and for you</i> in your context. In coaching, I try to help by creating resonance in you. I ask questions to help you explore your own disposition
 		towards a change or course of action. Be it a decision, a conflict or a long-held goal you tried to reach. My role is to strengthen and support the inner direction of the individual
-		so they may flourish and self-actualize in balance and connection with their environment. A lot of change can start with you, you can become and make a living difference.
+		so they may flourish and self-actualize in balance and connection with their environment. A lot of change can start with you, <i>you are and make a living difference</i>.
         </p>
 		
 		<h3>organizing</h3>	
@@ -55,8 +55,8 @@ language: en
 		<p>
 		I saw how organisations are made. Someone decides the <a href="https://www.youtube.com/watch?v=MsLmjoAp_Dg" target="_blank"><!-- Dave Snowden -->formal structure and the formal constraints</a>, the 
 		formal goals. Then people (self)-organize around those constraints and conditions. Often they feel they have no power to change 'the system'. Sometimes, that is even true of those managing the 
-		system. CEOs feel market pressures, politicians voter pressures. Metaphorically, the entire organization becomes a new 'living being' of its own. Organizing both shapes the identities of
-		consituting individuals, and creates new identities. 
+		system. CEOs feel market pressures, politicians voter pressures. Metaphorically, the entire organization becomes a new 'living being' of its own. Organizing shapes the identities of
+		individuals. <i>Organizing destroys and creates identities</i>. 
 		</p>
 		<p>
 		That in turn has major implications for the structure and the qualities of our products and outputs: we live in a 
@@ -77,7 +77,7 @@ language: en
 		</p>
 
 		<ul class="actions">
-			<li><a href="en-services.html" class="button">Work with me</a></li>
+			<li><a href="en-4-services.html" class="button">Work with me</a></li>
 		</ul>
 
 	</div>
