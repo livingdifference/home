@@ -11,7 +11,7 @@
 		border-bottom: none;
 		position: relative;
 		text-align: center;
-
+		
 		> .label {
 			display: none;
 		}
@@ -31,6 +31,17 @@
 				font-family: 'Font Awesome 6 Brands';
 			}
 		}
+		
+		&.brands-circle {
+			&:before {
+				border-radius: 2.75em;
+				display: inline-block;
+				height: 2.75em;
+				line-height: 2.75em;
+				width: 2.75em;
+				font-family: 'Font Awesome 6 Brands';
+			}
+		}
 
 		&.style2 {
 			&:before {
@@ -39,6 +50,7 @@
 				height: 2.75em;
 				line-height: 2.75em;
 				width: 2.75em;
+				font-family: 'Font Awesome 6 Free';
 			}
 		}
 
@@ -60,6 +72,7 @@
 					'box-shadow #{_duration(transition)} ease-in-out',
 					'color #{_duration(transition)} ease-in-out'
 				));
+
 			}
 		}
 	}
