@@ -17,207 +17,12 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 
-		
-		<style>
-	
-/* Menu */
-
-#menu {
-	-moz-transform: translateX(20em);
-	-webkit-transform: translateX(20em);
-	-ms-transform: translateX(20em);
-	transform: translateX(20em);
-	-moz-transition: -moz-transform 0.5s ease;
-	-webkit-transition: -webkit-transform 0.5s ease;
-	-ms-transition: -ms-transform 0.5s ease;
-	transition: transform 0.5s ease;
-	-webkit-overflow-scrolling: touch;
-	background: #FFFFFF;
-	color: #343433;
-	height: 100%;
-	max-width: 80%;
-	overflow-y: auto;
-	padding: 3em 2em;
-	position: fixed;
-	right: 0;
-	top: 0;
-	width: 20em;
-	z-index: 10002;
-}
-
-#menu ul {
-	list-style: none;
-	padding: 0;
-}
-
-#menu ul > li {
-	border-top: solid 1px rgba(0, 0, 0, 0.125);
-	margin: 0.5em 0 0 0;
-	padding: 0.5em 0 0 0;
-}
-
-#menu ul > li:first-child {
-	border-top: 0 !important;
-	margin-top: 0 !important;
-	padding-top: 0 !important;
-}
-
-#menu ul > li > a {
-	border: 0;
-	color: inherit;
-	display: block;
-	font-size: 0.8em;
-	font-weight: 500;
-	outline: 0;
-	text-decoration: none;
-}
-
-@media screen and (max-width: 736px) {
-
-	#menu ul > li > a {
-		line-height: 3em;
-	}
-
-}
-
-#menu .close {
-	background-image: url("assets/css/images/close.svg");
-	background-position: 4.85em 1em;
-	background-repeat: no-repeat;
-	border: 0;
-	cursor: pointer;
-	display: block;
-	height: 3em;
-	position: absolute;
-	right: 0;
-	top: 0;
-	vertical-align: middle;
-	width: 7em;
-}
-
-@media screen and (max-width: 736px) {
-
-	#menu {
-		padding: 3em 1.5em;
-	}
-
-}
-
-body.is-menu-visible #wrapper {
-	opacity: 0.35;
-}
-
-body.is-menu-visible #wrapper:before {
-	display: block;
-}
-
-body.is-menu-visible #menu {
-	-moz-transform: translateX(0);
-	-webkit-transform: translateX(0);
-	-ms-transform: translateX(0);
-	transform: translateX(0);
-}
-
-/* Header */
-
-#header {
-	background: #FFFFFF;
-	height: 44px;
-	left: 0;
-	line-height: 3em;
-	position: fixed;
-	top: 0;
-	width: 100%;
-	z-index: 10000;
-	box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-}
-
-#header nav {
-	height: 32px;
-	line-height: inherit;
-	position: absolute;
-	right: 10px;
-	top: 0;
-}
-
-#header nav > ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-	white-space: nowrap;
-}
-
-#header nav > ul > li {
-	display: inline-block;
-	padding: 0;
-	margin: 0;
-}
-
-#header nav > ul > li > a {
-	border: 0;
-	color: #343433;
-	display: block;
-	font-size: 11px;
-	letter-spacing: 0.200em;
-	font-weight: 700;
-	padding: 0 10px;
-	margin: 0;
-	top: 5px;
-	text-transform: uppercase;
-}
-
-#header nav > ul > li > a.menuToggle {
-	outline: 0;
-	position: relative;
-}
-
-#header nav > ul > li > a.menuToggle span {
-	display: inline-block;
-	float: left;
-	height: 22px;
-	margin-top: -13px;
-}
-
-#header nav > ul > li > a.menuToggle:after {
-	background-image: url("assets/css/images/bars.svg");
-	background-position: right center;
-	background-repeat: no-repeat;
-	content: '';
-	display: inline-block;
-	vertical-align: top;
-	height: 32px;
-	width: 32px;
-}
-
-@media screen and (max-width: 736px) {
-
-	#header nav > ul > li > a.menuToggle {
-		padding: 0 1.5em;
-	}
-
-	#header nav > ul > li > a.menuToggle span {
-		display: none;
-	}
-
-}
-
-@media screen and (max-width: 736px) {
-
-	#header nav > ul > li > a {
-		padding: 0 0 0 1.5em;
-	}
-
-}
-
-#header nav > ul > li:first-child {
-	margin-left: 0;
-}		
-
-		</style>
-
+		<link href="assets/css/menu.css" rel="stylesheet" />
 
 	</head>
-		
+	
+<!-- Photo by <a href="https://unsplash.com/@enginakyurt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">engin akyurt</a> on <a href="https://unsplash.com/s/photos/price?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  -->	
 	
 	<body class="is-preload">
 
@@ -238,6 +43,7 @@ body.is-menu-visible #menu {
 								<li><a href="#about">About</a></li>
 								<li><a href="#blog">Working with me</a></li>
 								<li><a href="#contact">Get in touch</a></li>
+								<li><a href="#social">Social media</a></li>								
 							</ul>
 
 							<nav class="languageswitch" style="font-size: 90%">
@@ -428,16 +234,29 @@ body.is-menu-visible #menu {
 						<div class="inner">
 							<h2>Work with me</h2>
 							<p>
-							What is it like to work with me? What sources do I draw on? 
-							This gallery contains some past experiences I gathered and some thoughts on the teachings of those I learn from.
+							What is it like to work with me? What sources do I draw on? What's my pricing policy?<br>
+							This gallery contains some of my past experiences, some terms of engagement and 
+							thoughts on the teachings of those I learn from.
 							</p>
 						</div>
 
 						<!-- Gallery -->
 							<div class="gallery style2 medium <!-- lightbox --> onscroll-fade-in">
 								<article>
+									<a href="images/gallery/fulls/02.jpg" class="image">
+										<img src="images/gallery/thumbs/citizen-lab.jpg" alt="" />
+									</a>
+									<div class="caption">
+										<h3>Citizen lab &nbsp;- &nbsp;<i>Mitmach(t)labor</i></h3>
+										<p>I facilitated a workshop to engage citizens in local climate action.</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>
+								<article>
 									<a href="http://www.google.com" class="image">
-										<img src="images/gallery/thumbs/01.jpg" alt="" />
+										<img src="images/gallery/thumbs/gertruda-valaseviciute-xMObPS6V_gY-unsplash.jpg" alt="" />
 									</a>
 									<div class="caption">
 										<h3>Complexity thinking</h3>
@@ -450,24 +269,26 @@ body.is-menu-visible #menu {
 									</div>
 								</article>
 								<article>
-									<a href="images/gallery/fulls/02.jpg" class="image">
-										<img src="images/gallery/thumbs/02.jpg" alt="" />
+									<a href="http://www.google.com" class="image">
+										<img src="images/gallery/thumbs/engin-akyurt-6o2H-Pvihl4-unsplash.jpg" alt="" />
 									</a>
 									<div class="caption">
-										<h3>Citizen lab &nbsp;- &nbsp;<i>Mitmach(t)labor</i></h3>
-										<p>I facilitated a workshop to engage citizens in local climate action.</p>
+										<h3>My pricing policy</h3>
+										<p>It all depends on what you're up to	
+										</p>
 										<ul class="actions fixed">
 											<li><span class="button small">Details</span></li>
 										</ul>
 									</div>
 								</article>
+
 								<article>
 									<a href="images/gallery/fulls/03.jpg" class="image">
-										<img src="images/gallery/thumbs/03.jpg" alt="" />
+										<img src="images/gallery/thumbs/pedro-sanz-5viuCBIXywA-unsplash.jpg" alt="" />
 									</a>
 									<div class="caption">
 										<h3>Designing regenerative and resilient systems</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<p>The big picture: why I do this work.</p>
 										<ul class="actions fixed">
 											<li><span class="button small">Details</span></li>
 										</ul>
@@ -475,12 +296,12 @@ body.is-menu-visible #menu {
 								</article>
 								<article>
 									<a href="images/gallery/fulls/04.jpg" class="image">
-										<img src="images/gallery/thumbs/04.jpg" alt="" />
+										<img src="images/gallery/thumbs/jud-mackrill-Of_m3hMsoAA-unsplash.jpg" alt="" />
 									</a>
 									<div class="caption">
 										<h3>Bread and butter as a change agent</h3>
 										<p>What did I learn as an agile coach and organisational consultant 
-										in a large corporate setting?</p>
+										in a corporate setting?</p>
 										<ul class="actions fixed">
 											<li><span class="button small">Details</span></li>
 										</ul>
@@ -488,11 +309,11 @@ body.is-menu-visible #menu {
 								</article>
 								<article>
 									<a href="images/gallery/fulls/05.jpg" class="image">
-										<img src="images/gallery/thumbs/05.jpg" alt="" />
+										<img src="images/gallery/thumbs/kaleidico-7lryofJ0H9s-unsplash.jpg" alt="" />
 									</a>
 									<div class="caption">
-										<h3>Ultrices Magna</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<h3>Joyful work</h3>
+										<p>Productivity and play, joy and a job well done - are they opposites?</p>
 										<ul class="actions fixed">
 											<li><span class="button small">Details</span></li>
 										</ul>
@@ -500,83 +321,11 @@ body.is-menu-visible #menu {
 								</article>
 								<article>
 									<a href="images/gallery/fulls/06.jpg" class="image">
-										<img src="images/gallery/thumbs/06.jpg" alt="" />
+										<img src="images/gallery/thumbs/oxana-melis-v5LPPCkEfp8-unsplash.jpg" alt="" />
 									</a>
 									<div class="caption">
-										<h3>Sed Tempus</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/07.jpg" class="image">
-										<img src="images/gallery/thumbs/07.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Ipsum Lorem</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/08.jpg" class="image">
-										<img src="images/gallery/thumbs/08.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Magna Risus</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/09.jpg" class="image">
-										<img src="images/gallery/thumbs/09.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Tempus Dolor</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/10.jpg" class="image">
-										<img src="images/gallery/thumbs/10.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Sed Etiam</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/11.jpg" class="image">
-										<img src="images/gallery/thumbs/11.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Magna Lorem</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
-										<ul class="actions fixed">
-											<li><span class="button small">Details</span></li>
-										</ul>
-									</div>
-								</article>
-								<article>
-									<a href="images/gallery/fulls/12.jpg" class="image">
-										<img src="images/gallery/thumbs/12.jpg" alt="" />
-									</a>
-									<div class="caption">
-										<h3>Ipsum Dolor</h3>
-										<p>Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices.</p>
+										<h3>Toolbox</h3>
+										<p>Tools and inspiration I frequently employ.</p>
 										<ul class="actions fixed">
 											<li><span class="button small">Details</span></li>
 										</ul>
@@ -614,16 +363,16 @@ body.is-menu-visible #menu {
 					</section>
 
 				<!-- Footer -->
-					<footer class="wrapper style1 align-center">
+					<footer class="wrapper style1 align-center" id="social">
 						<div class="inner">
 							<ul class="icons">
-								<li><a href="https://mastodon.green/web/@livingdifference" class="icon brands-circle fa-mastodon"><span class="label">Mastodon</span></a></li>
-								<li><a href="https://www.youtube.com/channel/UCFUHvI0iZd4R5jt5RgL-0YQ" class="icon brands-circle fa-youtube"><span class="label">Youtube</span></a></li>
-								<li><a href="https://www.instagram.com/livingdifference/" class="icon brands-circle fa-instagram"><span class="label">Instagram</span></a></li>
-								<li><a href="https://www.linkedin.com/in/matthias-schmitt-ffm/" class="icon brands-circle fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+								<li><a href="https://mastodon.green/web/@livingdifference" target="_blank" class="icon brands-circle fa-mastodon"><span class="label">Mastodon</span></a></li>
+								<li><a href="https://www.youtube.com/channel/UCFUHvI0iZd4R5jt5RgL-0YQ" target="_blank" class="icon brands-circle fa-youtube"><span class="label">Youtube</span></a></li>
+								<li><a href="https://www.instagram.com/livingdifference/" target="_blank" class="icon brands-circle fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="https://www.linkedin.com/in/matthias-schmitt-ffm/" target="_blank" class="icon brands-circle fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 								<li><a href="mailto:hello@livingdifference.de" class="icon style2 fa-regular fa-envelope"><span class="label">Email</span></a></li>
 							</ul>
-							<p>&copy; Matthias Schmitt 2022. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+							<p>&copy; Matthias Schmitt 2022. <br>Design: <a href="https://html5up.net">HTML5 UP</a> with support by <a href="https://www.feuerball.de/">feuerball-design</a>.</p>
 						</div>
 					</footer>
 

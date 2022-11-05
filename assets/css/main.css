@@ -2205,6 +2205,7 @@ input[type="radio"]:focus + label:before {
 
 .icon.brands-circle:before {
   border-radius: 2.75em;
+  border: 1px solid lightgray;
   display: inline-block;
   height: 2.75em;
   line-height: 2.75em;
@@ -2247,6 +2248,17 @@ a.icon.style2:hover:before {
 }
 
 a.icon.style2:active:before {
+  background-color: rgba(71, 211, 229, 0.1);
+  box-shadow: inset 0 0 0 1px #47D3E5;
+  color: #47D3E5;
+}
+
+a.icon.brands-circle:hover:before {
+  box-shadow: inset 0 0 0 1px #47D3E5;
+  color: #47D3E5;
+}
+
+a.icon.brands-circle:active:before {
   background-color: rgba(71, 211, 229, 0.1);
   box-shadow: inset 0 0 0 1px #47D3E5;
   color: #47D3E5;
@@ -6244,6 +6256,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 
 .gallery.style2 > .forward:before {
   content: '\f105';
+  font-family: 'Font Awesome 6 Free';
   right: 0;
 }
 
@@ -6254,6 +6267,7 @@ body.is-preload .gallery.onload-fade-in article .image img {
 
 .gallery.style2 > .backward:before {
   content: '\f104';
+  font-family: 'Font Awesome 6 Free';
   left: 0;
 }
 
@@ -7707,6 +7721,17 @@ body.is-preload .items.onload-fade-in > * > .inner {
 }
 
 #wrapper > .invert a.icon.style2:active:before {
+  background-color: rgba(71, 211, 229, 0.1);
+  box-shadow: inset 0 0 0 1px #47D3E5;
+  color: #47D3E5;
+}
+
+#wrapper > .invert a.icon.brands-circle:hover:before {
+  box-shadow: inset 0 0 0 1px #47D3E5;
+  color: #47D3E5;
+}
+
+#wrapper > .invert a.icon.brands-circle:active:before {
   background-color: rgba(71, 211, 229, 0.1);
   box-shadow: inset 0 0 0 1px #47D3E5;
   color: #47D3E5;
